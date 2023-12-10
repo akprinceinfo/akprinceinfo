@@ -1,11 +1,11 @@
 ![Front End Developer](https://pbs.twimg.com/profile_banners/1558824466377248768/1660491790/1500x500)
 ### Hi there 👋, I am Prince
-#### Front End Developer
+#### Web Developer
 
 
 Strong in design and integration with intuitive problem-solving skills. Proficient in JavaScript, and React js. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions, and write Software Requirements Specifications and business proposals. Looking to start my career as an entry-level software engineer with a reputed firm driven by technology.
 
-Skills: HTML / CSS / JS / jQuery / Bootstrap / REACT / WordPress / PHP
+Skills: HTML / CSS / JS / jQuery / Bootstrap / REACT / WordPress / Webflow / PHP
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning React Js 
